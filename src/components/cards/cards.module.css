@@ -1,0 +1,38 @@
+.container {
+	display: flex;
+	justify-content: space-between;
+	padding: 17px;
+	border-radius: 12px;
+}
+
+.name {
+	font-size: 16px;
+	font-family: 'Hanken Grotesk';
+	margin-left: 12px;
+	margin-right: 124px;
+}
+
+.orange {
+	background-color: rgba(255, 85, 85, 0.05);
+}
+.orange2 {
+	color: #ff5555;
+}
+.range {
+	font-size: 16px;
+	font-family: 'Hanken Grotesk';
+	font-weight: 700;
+	color: #303b59;
+}
+.rangeTotal {
+	font-size: 16px;
+	font-family: 'Hanken Grotesk';
+	font-weight: 700;
+	color: hsla(224, 30%, 27%, 0.478);
+}
+.titleContainer {
+	display: flex;
+}
+.scoreContainer {
+	display: flex;
+}

@@ -20,3 +20,10 @@ a {
 	text-decoration: none;
 	color: inherit;
 }
+
+body {
+	font-family: 'Hanken Grotesk';
+}
+.box2 {
+	padding: 30px;
+}
